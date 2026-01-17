@@ -59,7 +59,7 @@ div[data-testid="stDataFrame"] div[role="gridcell"] {
 """,
     unsafe_allow_html=True,
 )
-st.title("Horários — Professores e Alunos")
+st.title("Horários — Professores e Alunos - 2026/1")
 
 # =========================
 # Perfis simples por URL (sem token): ?role=admin habilita abas gerenciais
