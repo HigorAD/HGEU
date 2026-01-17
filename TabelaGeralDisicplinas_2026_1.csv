@@ -1,0 +1,249 @@
+Mae,Turma,Código,Nome da Disciplina,CH,TEO,Professor,DiaSemana,Turno,Tipo
+# >>>>>>>>>> CC1P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,3,Engenharia De Requisitos,30,"1,5",José Carlos,Qua,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,4,Interface Humano-Computador,30,"1,5",José Carlos,Qua,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,Pré,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,1º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,2º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Rafael,Seg,Pré,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Rafael,Seg,1º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Rafael,Seg,2º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,Pré,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,1º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,2º,P
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,6,Topicos De Ambiente Web,30,"1,5",Graziella,Sex,1º,T
+SI1,SI1P12,88,Projeto E Desenvolvimento 1 – SI,30,"1,5",Graziella,Sex,2º,T
+CC1,CC1P12 / CC1Q12 ,8,Projeto E Desenvolvimento 1 - Cc,30,"1,5",Graziella,Sex,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Ter,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Ter,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Ter,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Ter,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Ter,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Ter,2º,T
+CC1,CC1P12 / CC1Q12 ,1,Física Para Computação,30,"1,5",Célia,Qui,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,7,Topicos De Matematica Aplicada,30,"1,5",Célia,Qui,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,9,Interpretação E Prod Textos,,,*,Sex,Pré,EAD
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,10,Direitos Humanos,,,*,Sex,Pré,EAD
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,11,Atividade De Extensão 1 - Cc,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC3P12 / SI3P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+CC3,CC2P12 / CC3P12 / CC3Q12,76D6,Algebra Linear Para Computacao,30,30,Valentino,Qui,2º,T
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Perini,Seg,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,Pré,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Qua,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Qua,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Marcelo,Qui,Pré,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Qui,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Ter,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Ter,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Wellington,Sex,1º,T
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Wellington,Sex,2º,T
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Perini,Seg,1º,T
+SI3,SI2P12 /  SI3P12 ,745Z,Mod Sist Orient Obj,60,60,José Carlos,Qui,1º,T
+SI3,SI2P12 /  SI3P12 ,745Z,Mod Sist Orient Obj,60,60,José Carlos,Qui,2º,T
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,D74G,Direitos Humanos,,,*,Seg,Pré,EAD
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,D22C,Estatistica E Probabilidade,,,*,Ter,Pré,EAD
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,D267,Homem E Sociedade,,,*,Qua,Pré,EAD
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,D76B,Paradigmas de Linguagens,,,*,Qui,Pré,EAD
+CC3,CC2P12 / CC3P12 / CC3Q12,E542,Estudos Disciplinares,,,*,Sex,Pré,EAD
+CC3,CC2P12 / CC3P12 / CC3Q12,75D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+SI3,SI2P12 /  SI3P12 ,E523,Estudos Disciplinares,,,*,Sex,Pré,EAD
+SI3,SI2P12 /  SI3P12 ,77D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC5P12 / SI5P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,J08B,Arquit de Redes de Computador,30,30,Rafael,Sex,1º,T
+CC5,CC5P12 / CC5Q12 / CC4P12,J06B,Arquitetura de Comput Modernos,30,30,Rafael,Sex,2º,T
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,J17B,Sistemas Operacionais,60,30,Wellington,Qui,1º,T
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,J17B,Sistemas Operacionais,60,30,Wellington,Qui,2º,P
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,J17B,Sistemas Operacionais,60,30,Luciano,Qui,2º,P
+CC5,CC5P12 / CC5Q12 / CC4P12,J903,Inteligencia Artificial,60,60,Vinícius,Qua,1º,T
+CC5,CC5P12 / CC5Q12 / CC4P12,J903,Inteligencia Artificial,60,60,Vinícius,Qua,2º,T
+CC5,CC5P12 / CC5Q12 / CC4P12,J972,Computacao Grafica,30,30,Vinícius,Ter,1º,T
+CC5,CC5P12 / CC5Q12 / CC4P12,J02B,Linguagens Formais E Automatos,30,30,Vinícius,Ter,2º,T
+SI5,SI5P12 / SI4P12,78B4,Organizacao de Computadores,30,30,Marcelo,Seg,1º,T
+SI5,SI5P12 / SI4P12,56A6,Seguranca da Informacao,30,30,Marcelo,Seg,2º,T
+CC5,CC5P12 / CC5Q12 / CC4P12,D56B,Analise Matematica,,,*,Seg,Pré,EAD
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,D194,Metod do Trabalho Academico,,,*,Ter,Pré,EAD
+CC5 / SI5,CC5P12 / CC5Q12 / CC4P12 / SI5P12 / SI4P12,D66B,Teoria Dos Grafos,,,*,Qua,Pré,EAD
+SI5,SI5P12 / SI4P12,D59B,Arquitetura Empresarial,,,*,Qui,Pré,EAD
+SI5,SI5P12 / SI4P12,D69B,"Noc Contab Geral,custos E Ger",,,*,Sex,Pré,EAD
+CC5,CC5P12 / CC5Q12 / CC4P12,19D5,Estudos Disciplinares,,,*,Sex,Pré,EAD
+CC5,CC5P12 / CC5Q12 / CC4P12,77B2,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+SI5,SI5P12 / SI4P12,18D7,Estudos Disciplinares,,,*,Sex,Pré,EAD
+SI5,SI5P12 / SI4P12,78B9,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC7P12 / SI7P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+CC7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,J964,Engenharia de Software,60,60,José Carlos,Seg,1º,T
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,J964,Engenharia de Software,60,60,José Carlos,Seg,2º,T
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,J732,Trabalho de Curso I,30,30,Elisa,Qui,1º,T
+CC7,CC7P12 / CC7Q12 / CC6P12 ,76B5,Sistemas Distribuidos,60,60,Marcelo,Qua,1º,T
+CC7,CC7P12 / CC7Q12 / CC6P12 ,76B5,Sistemas Distribuidos,60,60,Marcelo,Qua,2º,T
+CC7,CC7P12 / CC7Q12 / CC6P12 ,76B4,Fund Realidade Virtual/aument,30,30,Vinícius,Sex,1º,T
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,76B3,Analise de Algoritmos,30,30,Vinícius,Sex,2º,T
+SI7,SI7P12 / SI6P12,56A1,Governanca da ti,30,30,Célia,Qua,1º,T
+SI7,SI7P12 / SI6P12,16C3,Sist de Inform Integrada,30,30,Célia,Qua,Pré,T
+SI7,SI7P12 / SI6P12,78B5,Usabilidade Aplicada A si,30,30,Célia,Qua,2º,T
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,D541,Administracao,,,*,Seg,Pré,EAD
+CC7 ,CC7P12 / CC7Q12 / CC6P12 ,D36B,Ciencia da Computacao Integrad,,,*,Ter,Pré,EAD
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,D46B,Legislacao Computacional/etica,,,*,Qua,Pré,EAD
+CC7,CC7P12 / CC7Q12 / CC6P12 ,75B7,Estudos Disciplinares,,,*,Qui,Pré,EAD
+CC7,CC7P12 / CC7Q12 / CC6P12 ,77B4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+SI7,SI7P12 / SI6P12,56A2,Estudos Disciplinares,,,*,Sex,Pré,EAD
+SI7,SI7P12 / SI6P12,79B2,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC8P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+CC8,CC8P12,75B4,Fisica Para Computacao,,,*,Seg,Pré,EAD
+CC8,CC8P12,J94A,Interface Humano Computador,,,*,Ter,Pré,EAD
+CC8,CC8P12,J672,Nocoes de Direito,,,*,Qua,Pré,EAD
+CC8,CC8P12,J95A,Progr Para Dispositivos Moveis,60,0,Medina,Terça,1º,P
+CC8,CC8P12,J95A,Progr Para Dispositivos Moveis,60,0,Medina,Terça,2º,P
+CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Qua,1º,P
+CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Qua,2º,P
+CC8,CC8P12,D277,Interpretação E Prod Textos,,,*,Seg,Pré,EAD
+CC8,CC8P12,D86B,Topicos de Ambiente Web,,,*,Ter,Pré,EAD
+CC8,CC8P12,D96B,Topicos de Matematica Aplicada,,,*,Qua,Pré,EAD
+CC8,CC8P12,79B4,Estudos Disciplinares,,,*,Qui,Pré,EAD
+CC8,CC8P12,77B7,Atividades Complementares,,,*,Sex,Pré,EAD
+CC8,CC8P12,76B7,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+CC8,CC8P12,77B6,Estagio,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC1A12 (MANHÃ) <<<<<<<<<<,,,,,,,,,
+CC1A,CC1A12,1,FISICA PARA COMPUTACAO,30,"1,5",,,,
+CC1A,CC1A12,2,PROGRAMACAO WEB RESPONSIVA,60,0,,,,
+CC1A,CC1A12,3,ENGENHARIA DE REQUISITOS,30,"1,5",,,,
+CC1A,CC1A12,4,INTERFACE HUMANO-COMPUTADOR,30,"1,5",,,,
+CC1A,CC1A12,5,DESEN PARA DISPOSITIVOS MOVEIS,90,0,,,,
+CC1A,CC1A12,6,TOPICOS DE AMBIENTE WEB,30,"1,5",,,,
+CC1A,CC1A12,7,TOPICOS DE MATEMATICA APLICADA,30,"1,5",,,,
+CC1A,CC1A12,8,PROJETO E DESENVOLVIMENTO 1 - CC,30,"1,5",,,,
+CC1A,CC1A12,9,INTERPRETAÇÃO E PROD TEXTOS,,,*,Sex,Pré,EAD
+CC1A,CC1A12,10,DIREITOS HUMANOS,,,*,Sex,Pré,EAD
+CC1A,CC1A12,11,ATIVIDADE DE EXTENSÃO 1 - CC,,,*,Sex,Pré,EAD
+# >>>>>>>>>> CC2A12 / CC3A12 (MANHÃ) <<<<<<<<<<,,,,,,,,,
+CC3A,CC2A12 / CC3A12,76D6,Algebra Linear Para Computacao,30,30,Vinícius,Seg,1º,T
+CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Ter,1º,T
+CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Ter,2º,P
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qua,1º,T
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qua,2º,T
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qui,1º,P
+CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Sex,1º,P
+CC3A,CC2A12 / CC3A12,D74G,Direitos Humanos,,,*,Seg,Pré,EAD
+CC3A,CC2A12 / CC3A12,D22C,Estatistica E Probabilidade,,,*,Ter,Pré,EAD
+CC3A,CC2A12 / CC3A12,D267,Homem E Sociedade,,,*,Qua,Pré,EAD
+CC3A,CC2A12 / CC3A12,D76B,Paradigmas de Linguagens,,,*,Qui,Pré,EAD
+CC3A,CC2A12 / CC3A12,E542,Estudos Disciplinares,,,*,Sex,Pré,EAD
+CC3A,CC2A12 / CC3A12,75D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
+# >>>>>>>>>> AIP12 (NOITE) <<<<<<<<<<,,,,,,,,,
+AI1,AI1P12,12,Pensamento Lógico Computacional Com Phyton,,,Joice,Ter,1º,T
+AI1,AI1P12,12,Pensamento Lógico Computacional Com Phyton,,,Joice,Ter,2º,P
+AI1,AI1P12,13,Introdução A Automação Industrial,,,Eder,Qua,1º,T
+AI1,AI1P12,13,Introdução A Automação Industrial,,,Eder,Qua,2º,T
+AI1,AI1P12,14,Metodologia De Estudo E Pesquisa,,,Cláudio,Sex,1º,T
+AI1,AI1P12,14,Metodologia De Estudo E Pesquisa,,,Cláudio,Sex,2º,T
+AI1,AI1P12,15,Cálculo I,,,Célia,Seg,1º,T
+AI1,AI1P12,15,Cálculo I,,,Célia,Seg,2º,T
+AI1,AI1P12,16,Lógica Matemática,,,Yuri,Qui,1º,T
+AI1,AI1P12,16,Lógica Matemática,,,Yuri,Qui,2º,T
+AI1,AI1P12,17,Desenvolvimento Sustentável (Ead-Ava),,,*,Qua,Pré,EAD
+AI1,AI1P12,18,Direitos Humanos (Ead-Ava),,,*,Qui,Pré,EAD
+AI1,AI1P12,19,Proj Integ Multidisciplinar I,,,*,Sex,Pré,EAD
+AI1,AI1P12,20,Atividade De Extensão 1,,,*,Sex,Pré,EAD
+# >>>>>>>>>> AI3P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+AI2 / AI3,AI2P12 / AI3P12,19C4,Eletronica Analogica,,,Adauto,Qua,1º,T
+AI2 / AI3,AI2P12 / AI3P12,19C4,Eletronica Analogica,,,Adauto,Qua,2º,P
+AI2 / AI3,AI2P12 / AI3P12,303S,Eletronica Digital,,,Ivan,Seg,1º,T
+AI2 / AI3,AI2P12 / AI3P12,303S,Eletronica Digital,,,Ivan,Seg,2º,P
+AI2 / AI3,AI2P12 / AI3P12,313S,Instalacoes Eletricas,,,Ivan,Ter,1º,T
+AI2 / AI3,AI2P12 / AI3P12,313S,Instalacoes Eletricas,,,Ivan,Ter,2º,P
+AI2 / AI3,AI2P12 / AI3P12,333S,Linguagem de Program Aplicada,,,Eder,Sex,1º,T
+AI2 / AI3,AI2P12 / AI3P12,333S,Linguagem de Program Aplicada,,,Eder,Sex,2º,P
+AI2 / AI3,AI2P12 / AI3P12,22D5,Estudos Disciplinares,,,*,Qua,Pré,EAD
+AI2 / AI3,AI2P12 / AI3P12,45B5,Proj Inte Multidisciplinar Iii,,,*,Qui,Pré,EAD
+AI2 / AI3,AI2P12 / AI3P12,D99B,Calculo ii,,,*,Sex,Pré,EAD
+AI2 / AI3,AI2P12 / AI3P12,D996,Economia E Mercado,,,*,Sex,Pré,EAD
+AI2 / AI3,AI2P12 / AI3P12,D907,Gestao Estrategica de rh,,,*,Qua,Pré,EAD
+AI2 / AI3,AI2P12 / AI3P12,D54G,Lingua Brasil Sinais - Libras,,,*,Qui,Pré,EAD
+# >>>>>>>>>> AI5P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+AI4 / AI5,AI4P12 / AI5P12,334S,Controladores Log Programaveis,,,Ivan,Sex,1º,T
+AI4 / AI5,AI4P12 / AI5P12,334S,Controladores Log Programaveis,,,Ivan,Sex,2º,P
+AI4 / AI5,AI4P12 / AI5P12,393S,Eletronica de Potencia,,,Ivan,Qui,1º,T
+AI4 / AI5,AI4P12 / AI5P12,393S,Eletronica de Potencia,,,Ivan,Qui,2º,P
+AI4 / AI5,AI4P12 / AI5P12,19C2,Maquinas Eletricas,,,Caio,Seg,1º,T
+AI4 / AI5,AI4P12 / AI5P12,19C2,Maquinas Eletricas,,,Caio,Seg,2º,P
+AI4 / AI5,AI4P12 / AI5P12,19C1,Redes Industriais,,,Ivan,Qua,1º,T
+AI4 / AI5,AI4P12 / AI5P12,19C1,Redes Industriais,,,Ivan,Qua,2º,P
+AI4 / AI5,AI4P12 / AI5P12,304S,Sistemas Supervisorios,,,Valter,Ter,1º,T
+AI4 / AI5,AI4P12 / AI5P12,304S,Sistemas Supervisorios,,,Valter,Ter,2º,P
+AI4 / AI5,AI4P12 / AI5P12,48B1,Estudos Disciplinares,,,*,Qua,Pré,EAD
+AI4 / AI5,AI4P12 / AI5P12,45B7,Proj Integ Multidisciplinar V,,,*,Qui,Pré,EAD
+AI4 / AI5,AI4P12 / AI5P12,605W,Atividades Complementares,,,*,Qui,Pré,EAD
+# >>>>>>>>>> DS1P12 turma 1  (NOITE) <<<<<<<<<<,,,,,,,,,
+DS1P,DS1P12 / DS1Q12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Seg,1º,T
+DS1P,DS1P12 / DS1Q12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Seg,2º,T
+DS1P,DS1P12 / DS1Q12,22,Estatística,60,,Yuri,Sex,1º,T
+DS1P,DS1P12 / DS1Q12,22,Estatística,60,,Yuri,Sex,2º,T
+DS1P,DS1P12 / DS1Q12,23,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,1º,T
+DS1P,DS1P12 / DS1Q12,23,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,2º,T
+DS1P,DS1P12 / DS1Q12,24,Infraestrutura Computacional,60,,Graziella,Qui,1º,T
+DS1P,DS1P12 / DS1Q12,24,Infraestrutura Computacional,60,,Graziella,Qui,2º,T
+DS1P,DS1P12 / DS1Q12,25,Pensamento Lógico Computacional com Python,60,,Wellington,Qua,1º,P
+DS1P,DS1P12 / DS1Q12,25,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,2º,P
+DS1P,DS1P12 / DS1Q12,26,Educação Ambiental,,,*,Pré,,EAD
+DS1P,DS1P12 / DS1Q12,27,PIM I,,,*,Pré,,EAD
+DS1P,DS1P12 / DS1Q12,28,Atividades de Extensão 1,,,*,Pré,,EAD
+# >>>>>>>>>> DS1P12 turma 2 (NOITE) <<<<<<<<<<,,,,,,,,,
+DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
+DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
+DS1P,DS1R12,22,Estatística,60,,Yuri,Seg,1º,T
+DS1P,DS1R12,22,Estatística,60,,Yuri,Seg,2º,T
+DS1P,DS1R12,23,Tecnologia da Informação e da Comunicação,60,,Kelly,Qui,1º,T
+DS1P,DS1R12,23,Tecnologia da Informação e da Comunicação,60,,Kelly,Qui,2º,T
+DS1P,DS1R12,24,Infraestrutura Computacional,60,,Graziella,Sex,1º,T
+DS1P,DS1R12,24,Infraestrutura Computacional,60,,Graziella,Sex,2º,T
+DS1P,DS1R12,25,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,1º,P
+DS1P,DS1R12,25,Pensamento Lógico Computacional com Python,60,,Wellington,Qua,2º,P
+DS1P,DS1R12,26,Educação Ambiental,,,*,Pré,,EAD
+DS1P,DS1R12,27,PIM I,,,*,Pré,,EAD
+DS1P,DS1R12,28,Atividades de Extensão 1,,,*,Pré,,EAD
+# >>>>>>>>>>DS3 TURMA 1 (NOITE) <<<<<<<<<<,,,,,,,,,
+DS3P,DS3P12 / DS3Q12 ,58D1,Desenvolvimento Web Responsivo,60,30,Kelly,Ter,1º,T
+DS3P,DS3P12 / DS3Q12 ,57D7,Eng Software Agil Aplicada,60,30,Graziella,Seg,1º,T
+DS3P,DS3P12 / DS3Q12 ,57D8,Model Banco de Dados E Nosql,60,30,Kelly,Qua,1º,T
+DS3P,DS3P12 / DS3Q12 ,57D9,Prog Orient A Objetos Com c sharp,60,30,Rafael,Qui,1º,T
+DS3P,DS3P12 / DS3Q12 ,58D2,Ux E ui Design,60,30,,,,
+DS3P,DS3P12 / DS3Q12 ,E521,Estudos Disciplinares,,,*,Pré,,EAD
+DS3P,DS3P12 / DS3Q12 ,45B5,Proj Inte Multidisciplinar Iii,,,*,Pré,,EAD
+DS3P,DS3P12 / DS3Q12 ,D17G,"Comunic, Lider E Negociacao ",,,*,Pré,,EAD
+DS3P,DS3P12 / DS3Q12 ,D54G,Lingua Brasil Sinais - Libras,,,*,Pré,,EAD
+DS3P,DS3P12 / DS3Q12 ,D07G,Machine Learning E Analise Dad,,,*,Pré,,EAD
+# >>>>>>>>>>DS3 TURMA 2 (NOITE) <<<<<<<<<<,,,,,,,,,
+DS3R,DS3R12 / DS2P12,58D1,Desenvolvimento Web Responsivo,60,30,Elisa,Qua,1º,T
+DS3R,DS3R12 / DS2P12,57D7,Eng Software Agil Aplicada,60,30,Graziella,Ter,1º,T
+DS3R,DS3R12 / DS2P12,57D8,Model Banco de Dados E Nosql,60,30,Kelly,Seg,1º,T
+DS3R,DS3R12 / DS2P12,57D9,Prog Orient A Objetos Com c sharp,60,30,Kelly,Qui,1º,T
+DS3R,DS3R12 / DS2P12,58D2,Ux E ui Design,60,30,,,,
+DS3R,DS3R12 / DS2P12,E521,Estudos Disciplinares,,,*,Pré,,EAD
+DS3R,DS3R12 / DS2P12,45B5,Proj Inte Multidisciplinar Iii,,,*,Pré,,EAD
+DS3R,DS3R12 / DS2P12,D17G,"Comunic, Lider E Negociacao ",,,*,Pré,,EAD
+DS3R,DS3R12 / DS2P12,D54G,Lingua Brasil Sinais - Libras,,,*,Pré,,EAD
+DS3R,DS3R12 / DS2P12,D07G,Machine Learning E Analise Dad,,,*,Pré,,EAD
+# >>>>>>>>>>DS4P12 /  TI4P12 (NOITE) <<<<<<<<<<,,,,,,,,,
+DS4,DS4P12 / TI4P12,68C6,Lógica,,,Luiz,Qui,1º,T
+DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Luciano,Seg,1º,T
+DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Ernesto,Terça,1º,T
+DS4,DS4P12 / TI4P12,68C6,Lógica,,,Luiz,Qui,2º,T
+DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Luciano,Seg,2º,T
+DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Ernesto,Terça,2º,T
+DS4,DS4P12 / TI4P12,20D5,Estudos Disciplinares,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,45B3,Proj Integ Multidisciplinar I,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,D977,Comunicacao Aplicada,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,D987,Desenvolvimento Sustentavel,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,D74G,Direitos Humanos,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,D79B,Estatistica,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,D93G,Fund de Sistemas Operacionais,,,*,Pré,,EAD
+DS4,DS4P12 / TI4P12,26B1,Atividades Complementares,,,*,Pré,,EAD
+# >>>>>>>>>>DS1A (MANHÃ) <<<<<<<<<<,,,,,,,,,
+DS1A,DS1A12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
+DS1A,DS1A12,22,Estatística,60,,,,,
+DS1A,DS1A12,23,Tecnologia da Informação e da Comunicação,60,,,,,
+DS1A,DS1A12,24,Infraestrutura Computacional,60,,,,,
+DS1A,DS1A12,25,Pensamento Lógico Computacional com Python,60,,Caio,Seg,1º,T
+DS1A,DS1A12,26,Educação Ambiental,,,*,Pré,,EAD
+DS1A,DS1A12,27,PIM I,,,*,Pré,,EAD
+DS1A,DS1A12,28,Atividades de Extensão 1,,,*,Pré,,EAD
