@@ -1,7 +1,7 @@
 Mae,Turma,Código,Nome da Disciplina,CH,TEO,Professor,DiaSemana,Turno,Tipo
 # >>>>>>>>>> CC1P12 (NOITE) <<<<<<<<<<,,,,,,,,,
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,3,Engenharia De Requisitos,30,"1,5",José Carlos,Qua,1º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,4,Interface Humano-Computador,30,"1,5",José Carlos,Qua,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,3,Engenharia De Requisitos,30,"1,5",José Carlos,Ter,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,4,Interface Humano-Computador,30,"1,5",José Carlos,Ter,2º,T
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,Pré,P
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,1º,P
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Wellington,Seg,2º,P
@@ -11,15 +11,15 @@ CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Rafael
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,Pré,P
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,1º,P
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,5,Desen Para Dispositivos Moveis,90,0,Vinícius,Seg,2º,P
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,6,Topicos De Ambiente Web,30,"1,5",Graziella,Sex,1º,T
-SI1,SI1P12,88,Projeto E Desenvolvimento 1 – SI,30,"1,5",Graziella,Sex,2º,T
-CC1,CC1P12 / CC1Q12 ,8,Projeto E Desenvolvimento 1 - Cc,30,"1,5",Graziella,Sex,2º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Ter,1º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Ter,2º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Ter,1º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Ter,2º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Ter,1º,T
-CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Ter,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,6,Topicos De Ambiente Web,30,"1,5",Francisco,Sex,1º,T
+SI1,SI1P12,88,Projeto E Desenvolvimento 1 – SI,30,"1,5",Francisco,Sex,2º,T
+CC1,CC1P12 / CC1Q12 ,8,Projeto E Desenvolvimento 1 - Cc,30,"1,5",Francisco,Sex,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Qua,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Karem,Qua,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Qua,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Rafael,Qua,2º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Qua,1º,T
+CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,2,Programação Web Responsiva,60,0,Elisa,Qua,2º,T
 CC1,CC1P12 / CC1Q12 ,1,Física Para Computação,30,"1,5",Célia,Qui,1º,T
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,7,Topicos De Matematica Aplicada,30,"1,5",Célia,Qui,2º,T
 CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,9,Interpretação E Prod Textos,,,*,Sex,Pré,EAD
@@ -30,8 +30,8 @@ CC3,CC2P12 / CC3P12 / CC3Q12,76D6,Algebra Linear Para Computacao,30,30,Valentino
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Perini,Seg,2º,P
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,1º,P
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,Pré,P
-CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Qua,1º,P
-CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Qua,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,2º,P
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Marcelo,Qui,Pré,P
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Qui,1º,P
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Ter,2º,P
@@ -94,8 +94,8 @@ CC8,CC8P12,J94A,Interface Humano Computador,,,*,Ter,Pré,EAD
 CC8,CC8P12,J672,Nocoes de Direito,,,*,Qua,Pré,EAD
 CC8,CC8P12,J95A,Progr Para Dispositivos Moveis,60,0,Medina,Terça,1º,P
 CC8,CC8P12,J95A,Progr Para Dispositivos Moveis,60,0,Medina,Terça,2º,P
-CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Qua,1º,P
-CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Qua,2º,P
+CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Seg,1º,P
+CC8,CC8P12,J09B,Programacao Web Responsiva,60,0,Karem,Seg,2º,P
 CC8,CC8P12,D277,Interpretação E Prod Textos,,,*,Seg,Pré,EAD
 CC8,CC8P12,D86B,Topicos de Ambiente Web,,,*,Ter,Pré,EAD
 CC8,CC8P12,D96B,Topicos de Matematica Aplicada,,,*,Qua,Pré,EAD
@@ -213,8 +213,8 @@ DS3P,DS3P12 / DS3Q12 ,D17G,"Comunic, Lider E Negociacao ",,,*,Pré,,EAD
 DS3P,DS3P12 / DS3Q12 ,D54G,Lingua Brasil Sinais - Libras,,,*,Pré,,EAD
 DS3P,DS3P12 / DS3Q12 ,D07G,Machine Learning E Analise Dad,,,*,Pré,,EAD
 # >>>>>>>>>>DS3 TURMA 2 (NOITE) <<<<<<<<<<,,,,,,,,,
-DS3R,DS3R12 / DS2P12,58D1,Desenvolvimento Web Responsivo,60,30,Elisa,Qua,1º,T
-DS3R,DS3R12 / DS2P12,57D7,Eng Software Agil Aplicada,60,30,Graziella,Ter,1º,T
+DS3R,DS3R12 / DS2P12,58D1,Desenvolvimento Web Responsivo,60,30,Elisa,Ter,1º,T
+DS3R,DS3R12 / DS2P12,57D7,Eng Software Agil Aplicada,60,30,Graziella,Qua,1º,T
 DS3R,DS3R12 / DS2P12,57D8,Model Banco de Dados E Nosql,60,30,Kelly,Seg,1º,T
 DS3R,DS3R12 / DS2P12,57D9,Prog Orient A Objetos Com c sharp,60,30,Kelly,Qui,1º,T
 DS3R,DS3R12 / DS2P12,58D2,Ux E ui Design,60,30,,,,

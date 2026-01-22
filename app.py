@@ -1,6 +1,6 @@
 
 # app.py — Horários (sem cache; arquivos locais; perfis público/admin por URL)
-# Python 3.8+ compatível (sem usar list[str] nem A|B)
+# Python 3.8+ compatível
 
 import os
 import re
@@ -42,7 +42,6 @@ def find_data_source() -> str:
         return DATA_XLSX
     return ""
 
-
 # =========================
 # Config Streamlit + CSS leve
 # =========================
@@ -59,7 +58,7 @@ div[data-testid="stDataFrame"] div[role="gridcell"] {
 """,
     unsafe_allow_html=True,
 )
-st.title("Horários — Professores e Alunos - 2026/1")
+st.title("Horários — Professores e Alunos")
 
 # =========================
 # Perfis simples por URL (sem token): ?role=admin habilita abas gerenciais
@@ -89,15 +88,7 @@ DIAS_DISP = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
 # =========================
 # Período (Manhã/Noite) conforme regra: A,B = Manhã | P,Q,R,S = Noite
 # =========================
-PERIODO_MAP = {
-    "A": "Manhã",
-    "B": "Manhã",
-    "P": "Noite",
-    "Q": "Noite",
-    "R": "Noite",
-    "S": "Noite",
-}
-
+PERIODO_MAP = {"A": "Manhã", "B": "Manhã", "P": "Noite", "Q": "Noite", "R": "Noite", "S": "Noite"}
 
 def infer_periodo(turma_id: str) -> str:
     """
@@ -112,7 +103,6 @@ def infer_periodo(turma_id: str) -> str:
         return "Indefinido"
     return PERIODO_MAP.get(m.group(1), "Indefinido")
 
-
 # =========================
 # Estilo por tipo (T, P, EAD)
 # =========================
@@ -121,7 +111,6 @@ TYPE_STYLE = {
     "P": "background-color: #E9FBEA; color: #0F5D1A; font-weight: 600;",
     "EAD": "background-color: #FFF3E0; color: #8A4B00; font-weight: 600;",
 }
-
 
 def style_cell_by_tipo(val: Any) -> str:
     """
@@ -139,7 +128,6 @@ def style_cell_by_tipo(val: Any) -> str:
         return TYPE_STYLE["T"]
     return ""
 
-
 # =========================
 # Helpers de comparação/normalização de nomes
 # =========================
@@ -151,7 +139,6 @@ def norm_text(s: str) -> str:
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
     s = re.sub(r"\s+", " ", s)
     return s
-
 
 def best_match_nome(nome_dispon: str, nomes_horario: List[str]) -> Optional[str]:
     """
@@ -171,7 +158,6 @@ def best_match_nome(nome_dispon: str, nomes_horario: List[str]) -> Optional[str]
     cand.sort(reverse=True)
     return cand[0][1]
 
-
 # =========================
 # Leitura do arquivo de horário e conversão (sem cache)
 # =========================
@@ -189,7 +175,6 @@ def load_and_convert_horario(path: str) -> Dict[str, pd.DataFrame]:
         df_raw = pd.read_excel(path, dtype=str, engine="openpyxl")
     dfs, _report = process_df(df_raw)
     return dfs
-
 
 # =========================
 # Leitura de disponibilidade (2 formatos)
@@ -280,7 +265,6 @@ def load_disponibilidade(path: str) -> pd.DataFrame:
     df = df[~((df.get("Funcional", "") == "") & (df.get("Nome", "") == ""))].copy()
     return df
 
-
 # =========================
 # Helper: exibir grade com estilo por tipo
 # =========================
@@ -303,7 +287,6 @@ def show_grid(df_grid: pd.DataFrame):
         st.dataframe(styler, use_container_width=True, column_config=col_cfg)
     except Exception:
         st.dataframe(grid, use_container_width=True)
-
 
 # =========================
 # Carregar dados do horário e montar DF enriquecido
@@ -349,7 +332,11 @@ else:
 # Aba 1 — Horário por Turma (com agrupamento de mesma disciplina)
 # =========================
 with tab_turma:
-    turma_sel = st.selectbox("Selecione a turma", sorted(DF["turma_id"].dropna().unique().tolist()))
+    turma_sel = st.selectbox(
+        "Selecione a turma",
+        sorted(DF["turma_id"].dropna().unique().tolist()),
+        key="turma_sel_one",
+    )
     df_turma = DF[DF["turma_id"] == turma_sel].copy()
 
     # Agrupa por dia/turno + disciplina + tipo e une professores
@@ -387,7 +374,11 @@ with tab_turma:
 # Aba 2 — Agenda do Professor (separada por Manhã/Noite/Indefinido)
 # =========================
 with tab_prof:
-    prof_sel = st.selectbox("Selecione o professor", sorted(DF["nome_professor"].dropna().unique().tolist()))
+    prof_sel = st.selectbox(
+        "Selecione o professor",
+        sorted(DF["nome_professor"].dropna().unique().tolist()),
+        key="prof_sel_one",
+    )
     df_prof = DF[DF["nome_professor"] == prof_sel].copy()
 
     def montar_grade_prof(df_base: pd.DataFrame) -> pd.DataFrame:
@@ -439,19 +430,15 @@ with tab_all:
 
     # Filtros auxiliares
     curso_opts = ["(Todos)"] + sorted(DF["curso_nome"].dropna().unique().tolist())
-    curso_sel = st.selectbox("Curso", curso_opts, index=0)
+    curso_sel = st.selectbox("Curso", curso_opts, index=0, key="curso_all")
 
     periodo_opts = ["(Todos)", "Manhã", "Noite", "Indefinido"]
-    periodo_sel = st.selectbox("Período", periodo_opts, index=0)
+    periodo_sel_all = st.selectbox("Período", periodo_opts, index=0, key="periodo_all")
 
-    ocultar_vazias = st.checkbox("Ocultar turmas sem aulas no filtro atual", value=True)
+    ocultar_vazias = st.checkbox("Ocultar turmas sem aulas no filtro atual", value=True, key="ocultar_all")
 
     # Base de turmas conforme curso
-    if curso_sel == "(Todos)":
-        base = DF.copy()
-    else:
-        base = DF[DF["curso_nome"] == curso_sel].copy()
-
+    base = DF if curso_sel == "(Todos)" else DF[DF["curso_nome"] == curso_sel].copy()
     turmas_list = sorted(base["turma_id"].dropna().unique().tolist())
 
     # Helper: montar pivot de uma turma (mesma lógica da aba por turma)
@@ -486,8 +473,8 @@ with tab_all:
     else:
         for turma_id in turmas_list:
             df_t = DF[DF["turma_id"] == turma_id].copy()
-            if periodo_sel != "(Todos)":
-                df_t = df_t[df_t["periodo"] == periodo_sel]
+            if periodo_sel_all != "(Todos)":
+                df_t = df_t[df_t["periodo"] == periodo_sel_all]
             if df_t.empty and ocultar_vazias:
                 continue
 
@@ -508,7 +495,7 @@ with tab_all:
 # Aba 4 — Disponibilidade (Professores) — somente admin
 # =========================
 if is_admin:
-    with st.tabs(["Disponibilidade (Professores)"])[0]:  # preserva ordem visual com abas gerenciais
+    with tab_disp:
         st.subheader("Disponibilidade x Atribuição (por Professor)")
 
         disp_df = load_disponibilidade(DISPONIBILIDADE_SOURCE)
@@ -541,9 +528,9 @@ if is_admin:
             disp_df["NomeHorario_resolvido"] = disp_df.apply(resolve_nome_horario, axis=1)
 
             # Atribuições (por período)
-            periodo_sel = st.selectbox("Período", ["Manhã", "Noite"])
-            df_p = DF[DF["periodo"] == periodo_sel].copy()
-            disp_p = disp_df[disp_df["Periodo"].astype(str).str.lower() == periodo_sel.lower()].copy()
+            periodo_sel_disp = st.selectbox("Período", ["Manhã", "Noite"], key="periodo_disp")
+            disp_p = disp_df[disp_df["Periodo"].astype(str).str.lower() == periodo_sel_disp.lower()].copy()
+            df_p = DF[DF["periodo"] == periodo_sel_disp].copy()
 
             atribu = (
                 df_p.groupby("nome_professor")["dia_semana"]
@@ -607,7 +594,7 @@ if is_admin:
 # Aba 5 — Conflitos — somente admin
 # =========================
 if is_admin:
-    with st.tabs(["Conflitos"])[0]:
+    with tab_conf:
         st.subheader("Conflitos — Disponibilidade e Choques de Horário")
 
         # Carrega disponibilidade
@@ -689,22 +676,22 @@ if is_admin:
         # --- Filtros
         st.markdown("### Filtros")
         professores_opts = ["(Todos)"] + sorted(df_aulas["nome_professor"].dropna().unique().tolist())
-        prof_sel = st.selectbox("Professor", professores_opts, index=0)
+        prof_sel_conf = st.selectbox("Professor", professores_opts, index=0, key="prof_conf")
 
         turmas_opts = ["(Todas)"] + sorted(df_aulas["turma_id"].dropna().unique().tolist())
-        turma_sel = st.selectbox("Turma", turmas_opts, index=0)
+        turma_sel_conf = st.selectbox("Turma", turmas_opts, index=0, key="turma_conf")
 
-        periodo_opts = ["(Todos)", "Manhã", "Noite", "Indefinido"]
-        periodo_sel = st.selectbox("Período", periodo_opts, index=0)
+        periodo_opts_conf = ["(Todos)", "Manhã", "Noite", "Indefinido"]
+        periodo_sel_conf = st.selectbox("Período", periodo_opts_conf, index=0, key="periodo_conf")
 
         def filtra(df: pd.DataFrame) -> pd.DataFrame:
             out = df.copy()
-            if prof_sel != "(Todos)" and "nome_professor" in out.columns:
-                out = out[out["nome_professor"] == prof_sel]
-            if turma_sel != "(Todas)" and "turma_id" in out.columns:
-                out = out[out["turma_id"] == turma_sel]
-            if periodo_sel != "(Todos)" and "periodo" in out.columns:
-                out = out[out["periodo"] == periodo_sel]
+            if prof_sel_conf != "(Todos)" and "nome_professor" in out.columns:
+                out = out[out["nome_professor"] == prof_sel_conf]
+            if turma_sel_conf != "(Todas)" and "turma_id" in out.columns:
+                out = out[out["turma_id"] == turma_sel_conf]
+            if periodo_sel_conf != "(Todos)" and "periodo" in out.columns:
+                out = out[out["periodo"] == periodo_sel_conf]
             return out
 
         df_fora_f = filtra(df_fora)
