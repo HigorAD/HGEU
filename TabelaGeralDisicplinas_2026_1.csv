@@ -162,14 +162,14 @@ AI2 / AI3,AI2P12 / AI3P12,D54G,Lingua Brasil Sinais - Libras,,,*,Qui,Pré,EAD
 # >>>>>>>>>> AI5P12 (NOITE) <<<<<<<<<<,,,,,,,,,
 AI4 / AI5,AI4P12 / AI5P12,334S,Controladores Log Programaveis,,,Caio,Seg,1º,T
 AI4 / AI5,AI4P12 / AI5P12,334S,Controladores Log Programaveis,,,Caio,Seg,2º,P
-AI4 / AI5,AI4P12 / AI5P12,393S,Eletronica de Potencia,,,Valter,Ter,1º,T
-AI4 / AI5,AI4P12 / AI5P12,393S,Eletronica de Potencia,,,Valter,Ter,2º,P
+AI4 / AI5,AI4P12 / AI5P12,393S,Sistemas Supervisorios,,,Valter,Ter,1º,T
+AI4 / AI5,AI4P12 / AI5P12,393S,Sistemas Supervisorios,,,Valter,Ter,2º,P
 AI4 / AI5,AI4P12 / AI5P12,19C2,Maquinas Eletricas,,,Ivan,Qua,1º,T
 AI4 / AI5,AI4P12 / AI5P12,19C2,Maquinas Eletricas,,,Ivan,Qua,2º,P
 AI4 / AI5,AI4P12 / AI5P12,19C1,Redes Industriais,,,Ivan,Qui,1º,T
 AI4 / AI5,AI4P12 / AI5P12,19C1,Redes Industriais,,,Ivan,Qui,2º,P
-AI4 / AI5,AI4P12 / AI5P12,304S,Sistemas Supervisorios,,,Ivan,Sex,1º,T
-AI4 / AI5,AI4P12 / AI5P12,304S,Sistemas Supervisorios,,,Ivan,Sex,2º,P
+AI4 / AI5,AI4P12 / AI5P12,304S,Eletronica de Potencia,,,Ivan,Sex,1º,T
+AI4 / AI5,AI4P12 / AI5P12,304S,Eletronica de Potencia,,,Ivan,Sex,2º,P
 AI4 / AI5,AI4P12 / AI5P12,48B1,Estudos Disciplinares,,,*,Qua,Pré,EAD
 AI4 / AI5,AI4P12 / AI5P12,45B7,Proj Integ Multidisciplinar V,,,*,Qui,Pré,EAD
 AI4 / AI5,AI4P12 / AI5P12,605W,Atividades Complementares,,,*,Qui,Pré,EAD
@@ -190,8 +190,8 @@ DS1P,DS1P12 / DS1Q12,28,Atividades de Extensão 1,,,*,Pré,,EAD
 # >>>>>>>>>> DS1P12 turma 2 (NOITE) <<<<<<<<<<,,,,,,,,,
 DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,1º,T
 DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,2º,T
-DS1P,DS1R12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
-DS1P,DS1R12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
+DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
+DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
 DS1P,DS1R12,23,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,1º,P
 DS1P,DS1R12,23,Pensamento Lógico Computacional com Python,60,,Wellington,Qua,2º,P
 DS1P,DS1R12,24,Infraestrutura Computacional,60,,Graziella,Qui,1º,T
