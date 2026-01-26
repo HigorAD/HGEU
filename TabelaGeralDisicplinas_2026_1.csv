@@ -190,8 +190,8 @@ DS1P,DS1P12 / DS1Q12,28,Atividades de Extensão 1,,,*,Pré,,EAD
 # >>>>>>>>>> DS1P12 turma 2 (NOITE) <<<<<<<<<<,,,,,,,,,
 DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,1º,T
 DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,2º,T
-DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
-DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
+DS1P,DS1R12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
+DS1P,DS1R12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
 DS1P,DS1R12,23,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,1º,P
 DS1P,DS1R12,23,Pensamento Lógico Computacional com Python,60,,Wellington,Qua,2º,P
 DS1P,DS1R12,24,Infraestrutura Computacional,60,,Graziella,Qui,1º,T
@@ -265,9 +265,9 @@ CC3A,CC2A12 / CC3A12,76D6,Algebra Linear Para Computacao,30,30,Vinícius,Seg,1º
 CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Seg,2º,P
 CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Ter,1º,T
 CC3A,CC2A12 / CC3A12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Ter,2º,P
-CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qua,Pré,T
-CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qua,2º,T
-CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qua,1º,P
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qui,Pré,T
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qui,2º,T
+CC3A,CC2A12 / CC3A12,J13B,Banco de Dados,90,60,Perini,Qui,1º,P
 CC3A,CC2A12 / CC3A12,D74G,Direitos Humanos,,,*,Seg,Pré,EAD
 CC3A,CC2A12 / CC3A12,D22C,Estatistica E Probabilidade,,,*,Ter,Pré,EAD
 CC3A,CC2A12 / CC3A12,D267,Homem E Sociedade,,,*,Qua,Pré,EAD
@@ -277,8 +277,8 @@ CC3A,CC2A12 / CC3A12,75D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
 # >>>>>>>>>>DS1A (MANHÃ) <<<<<<<<<<,,,,,,,,,
 DS1A,DS1A12,21,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,1º,T
 DS1A,DS1A12,21,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,2º,T
-DS1A,DS1A12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,1º,T
-DS1A,DS1A12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,2º,T
+DS1A,DS1A12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,1º,T
+DS1A,DS1A12,22,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,2º,T
 DS1A,DS1A12,23,Pensamento Lógico Computacional com Python,60,,Caio,Seg,1º,P
 DS1A,DS1A12,23,Pensamento Lógico Computacional com Python,60,,Caio,Seg,2º,P
 DS1A,DS1A12,24,Infraestrutura Computacional,60,,Elisa,Qua,1º,T
@@ -291,8 +291,8 @@ DS1A,DS1A12,28,Atividades de Extensão 1,,,*,Pré,,EAD
 # >>>>>>>>>>DS3A (MANHÃ) <<<<<<<<<<,,,,,,,,,
 DS3A,DS3A12,58D1,Desenvolvimento Web Responsivo,60,30,Elisa,Sex,1º,T
 DS3A,DS3A12,58D1,Desenvolvimento Web Responsivo,60,30,Elisa,Sex,2º,P
-DS3A,DS3A12,57D7,Eng Software Agil Aplicada,60,30,José Carlos,Ter,1º,T
-DS3A,DS3A12,57D7,Eng Software Agil Aplicada,60,30,José Carlos,Ter,2º,P
+DS3A,DS3A12,57D7,Eng Software Agil Aplicada,60,30,Patrícia,Ter,1º,T
+DS3A,DS3A12,57D7,Eng Software Agil Aplicada,60,30,Patrícia,Ter,2º,P
 DS3A,DS3A12,57D8,Model Banco de Dados E Nosql,60,30,Perini,Qua,1º,T
 DS3A,DS3A12,57D8,Model Banco de Dados E Nosql,60,30,Perini,Qua,2º,P
 DS3A,DS3A12,57D9,Prog Orient A Objetos Com c sharp,60,30,Kelly,Seg,1º,T
