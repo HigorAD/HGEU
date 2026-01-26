@@ -176,8 +176,8 @@ AI4 / AI5,AI4P12 / AI5P12,605W,Atividades Complementares,,,*,Qui,Pré,EAD
 # >>>>>>>>>> DS1P12 turma 1  (NOITE) <<<<<<<<<<,,,,,,,,,
 DS1P,DS1P12 / DS1Q12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Seg,1º,T
 DS1P,DS1P12 / DS1Q12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Seg,2º,T
-DS1P,DS1P12 / DS1Q12,22,Estatística,60,,Célia,Ter,1º,T
-DS1P,DS1P12 / DS1Q12,22,Estatística,60,,Célia,Ter,2º,T
+DS1P,DS1P12 / DS1Q12,22,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,1º,T
+DS1P,DS1P12 / DS1Q12,22,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,2º,T
 DS1P,DS1P12 / DS1Q12,23,Pensamento Lógico Computacional com Python,60,,Wellington,Qua,1º,P
 DS1P,DS1P12 / DS1Q12,23,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,2º,P
 DS1P,DS1P12 / DS1Q12,24,Infraestrutura Computacional,60,,Graziella,Qui,1º,T
@@ -188,8 +188,8 @@ DS1P,DS1P12 / DS1Q12,26,Educação Ambiental,,,*,Pré,,EAD
 DS1P,DS1P12 / DS1Q12,27,PIM I,,,*,Pré,,EAD
 DS1P,DS1P12 / DS1Q12,28,Atividades de Extensão 1,,,*,Pré,,EAD
 # >>>>>>>>>> DS1P12 turma 2 (NOITE) <<<<<<<<<<,,,,,,,,,
-DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,1º,T
-DS1P,DS1R12,21,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,2º,T
+DS1P,DS1R12,22,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,1º,T
+DS1P,DS1R12,22,Tecnologia da Informação e da Comunicação,60,,Kelly,Seg,2º,T
 DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,1º,T
 DS1P,DS1R12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Ter,2º,T
 DS1P,DS1R12,23,Pensamento Lógico Computacional com Python,60,,Luciano,Qua,1º,P
@@ -275,8 +275,8 @@ CC3A,CC2A12 / CC3A12,D76B,Paradigmas de Linguagens,,,*,Qui,Pré,EAD
 CC3A,CC2A12 / CC3A12,E542,Estudos Disciplinares,,,*,Sex,Pré,EAD
 CC3A,CC2A12 / CC3A12,75D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
 # >>>>>>>>>>DS1A (MANHÃ) <<<<<<<<<<,,,,,,,,,
-DS1A,DS1A12,21,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,1º,T
-DS1A,DS1A12,21,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,2º,T
+DS1A,DS1A12,22,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,1º,T
+DS1A,DS1A12,22,Tecnologia da Informação e da Comunicação,60,,Célia,Ter,2º,T
 DS1A,DS1A12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,1º,T
 DS1A,DS1A12,21,"Ética, Cidadania e Sustentabilidade",60,,Cláudio,Qui,2º,T
 DS1A,DS1A12,23,Pensamento Lógico Computacional com Python,60,,Caio,Seg,1º,P
