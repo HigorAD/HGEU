@@ -95,17 +95,20 @@ def process_df(df):
     valid = valid[valid['Professor'].notna() & (valid['Professor']!='')]
 
     rows = []
+    # dentro de process_df(), no loop que gera rows a partir de 'valid'
     for _, r in valid.iterrows():
-        for turma in r['Turma_list']:
-            turma = turma.strip()
-            if not turma: continue
+        turma_list = [t.strip() for t in r['Turma_list'] if t.strip()]
+        junc_src = " / ".join(sorted(turma_list))  # <--- chave da junção (do CSV)
+
+        for turma in turma_list:
             rows.append({
                 'turma_id': turma,
                 'disc_id': r['Código'],
                 'prof_id': slug_id(r['Professor']),
                 'dia_semana': normalize_day(r['DiaSemana']),
                 'turno': normalize_turno(r['Turno']),
-                'tipo': (r['Tipo'] if r.get('Tipo') in ['T','P', 'EAD'] else None)
+                'tipo': (r['Tipo'] if r.get('Tipo') in ['T','P','EAD'] else None),
+                'junc_src': junc_src,               # <--- NOVO
             })
     agenda_fact = pd.DataFrame(rows).merge(prof_dim[['prof_id']], on='prof_id', how='left')
 
