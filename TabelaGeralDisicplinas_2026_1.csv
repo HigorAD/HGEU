@@ -50,8 +50,8 @@ CC3,CC2P12 / CC3P12 / CC3Q12,75D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EA
 SI3,SI2P12 /  SI3P12 ,E523,Estudos Disciplinares,,,*,Sex,Pré,EAD
 SI3,SI2P12 /  SI3P12 ,77D4,Atividades Praticas Supervisio,,,*,Sex,Pré,EAD
 # >>>>>>>>>> CC5P12 / SI5P12 (NOITE) <<<<<<<<<<,,,,,,,,,
-SI5,SI5P12 / SI4P12,78B4,Organizacao de Computadores,30,30,Marcelo,Seg,1º,T
-SI5,SI5P12 / SI4P12,56A6,Seguranca da Informacao,30,30,Marcelo,Seg,2º,T
+SI5,SI5P12 / SI4P12,78B4,Organizacao de Computadores,30,30,Graziella,Ter,1º,T
+SI5,SI5P12 / SI4P12,56A6,Seguranca da Informacao,30,30,Graziella,Ter,2º,T
 CC5,CC5P12 / CC5Q12 / CC4P12,J972,Computacao Grafica,30,30,Vinícius,Ter,1º,T
 CC5,CC5P12 / CC5Q12 / CC4P12,J02B,Linguagens Formais E Automatos,30,30,Vinícius,Ter,2º,T
 CC5,CC5P12 / CC5Q12 / CC4P12,J903,Inteligencia Artificial,60,60,Vinícius,Qua,1º,T
@@ -80,8 +80,8 @@ SI7,SI7P12 / SI6P12,16C3,Sist de Inform Integrada,30,30,Célia,Qua,Pré,T
 SI7,SI7P12 / SI6P12,78B5,Usabilidade Aplicada A si,30,30,Célia,Qua,2º,T
 CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,J732,Trabalho de Curso I,30,30,Elisa,Qui,1º,T
 CC7,CC7P12 / CC7Q12 / CC6P12 ,76B4,Fund Realidade Virtual/aument,30,30,Vinícius,Sex,1º,T
-CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,76B3,Analise de Algoritmos,30,30,Vinícius,Sex,2º,T
-CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,D541,Administracao,,,*,Seg,Pré,EAD
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 ,76B3,Analise de Algoritmos,30,30,Vinícius,Sex,2º,T
+CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 ,D541,Administracao,,,*,Seg,Pré,EAD
 CC7 ,CC7P12 / CC7Q12 / CC6P12 ,D36B,Ciencia da Computacao Integrad,,,*,Ter,Pré,EAD
 CC7 / SI7,CC7P12 / CC7Q12 / CC6P12 / SI7P12 /  SI6P12,D46B,Legislacao Computacional/etica,,,*,Qua,Pré,EAD
 CC7,CC7P12 / CC7Q12 / CC6P12 ,75B7,Estudos Disciplinares,,,*,Qui,Pré,EAD
@@ -209,11 +209,11 @@ DS3R,DS3R12 / DS2P12,D54G,Lingua Brasil Sinais - Libras,,,*,Pré,,EAD
 DS3R,DS3R12 / DS2P12,D07G,Machine Learning E Analise Dad,,,*,Pré,,EAD
 # >>>>>>>>>>DS4P12 /  TI4P12 (NOITE) <<<<<<<<<<,,,,,,,,,
 DS4,DS4P12 / TI4P12,68C6,Lógica,,,Luiz,Qui,1º,T
-DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Luciano,Seg,1º,T
-DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Ernesto,Terça,1º,T
+DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Ernesto,Seg,1º,T
+DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Cláudio,Qua,1º,T
 DS4,DS4P12 / TI4P12,68C6,Lógica,,,Luiz,Qui,2º,T
-DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Luciano,Seg,2º,T
-DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Ernesto,Terça,2º,T
+DS4,DS4P12 / TI4P12,J554,Organizacao de Computadores,,,Ernesto,Seg,Pré,T
+DS4,DS4P12 / TI4P12,J39B,Princ de Sist de Informacao,,,Cláudio,Qua,2º,T
 DS4,DS4P12 / TI4P12,20D5,Estudos Disciplinares,,,*,Pré,,EAD
 DS4,DS4P12 / TI4P12,45B3,Proj Integ Multidisciplinar I,,,*,Pré,,EAD
 DS4,DS4P12 / TI4P12,D977,Comunicacao Aplicada,,,*,Pré,,EAD
