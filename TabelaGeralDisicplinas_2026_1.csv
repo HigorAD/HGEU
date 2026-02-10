@@ -28,17 +28,17 @@ CC1 / SI1P,CC1P12 / CC1Q12 / SI1P12,11,Atividade De Extensão 1 - Cc,,,*,Sex,Pr�
 # >>>>>>>>>> CC3P12 / SI3P12 (NOITE) <<<<<<<<<<,,,,,,,,,
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,30,Perini,Seg,2º,P
 CC3 / SI3,SI2P12 /  SI3P12 ,J56C,Programacao Orientada A Objet,90,30,Perini,Seg,1º,T
-CC3 / SI3,SI2P12 /  SI3P12 ,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,1º,P
-CC3 / SI3,SI2P12 /  SI3P12 ,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,2º,P
-CC3 / SI3,CC3P12,J13B,Banco de Dados,90,60,Joice,Ter,2º,P
-CC3 / SI3,CC3Q12 / CC2P12,J13B,Banco de Dados,90,60,Joice,Ter,1º,P
-CC3 / SI3,CC3P12,J56C,Programacao Orientada A Objet,90,30,Turatti,Ter,1º,P
-CC3 / SI3,CC3Q12 / CC2P12,J56C,Programacao Orientada A Objet,90,30,Turatti,Ter,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Rafael,Ter,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Joice,Ter,2º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Joice,Ter,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Turatti,Ter,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Turatti,Ter,2º,P
 CC3,CC2P12 / CC3P12 / CC3Q12,76D6,Algebra Linear Para Computacao,30,30,Valentino,Qui,2º,T
-CC3 / SI3,CC3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,1º,P
-CC3 / SI3,CC3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,Pré,P
-CC3 / SI3,CC3Q12 / CC2P12,J56C,Programacao Orientada A Objet,90,30,Marcelo,Qui,1º,P
-CC3 / SI3,CC3Q12 / CC2P12,J13B,Banco de Dados,90,60,Marcelo,Qui,Pré,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Vinícius,Qui,Pré,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J56C,Programacao Orientada A Objet,90,30,Marcelo,Qui,1º,P
+CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Marcelo,Qui,Pré,P
 SI3,SI2P12 /  SI3P12 ,745Z,Mod Sist Orient Obj,60,60,José Carlos,Qui,1º,T
 SI3,SI2P12 /  SI3P12 ,745Z,Mod Sist Orient Obj,60,60,José Carlos,Qui,2º,T
 CC3 / SI3,CC2P12 / CC3P12 / CC3Q12 /  SI2P12 / SI3P12,J13B,Banco de Dados,90,60,Wellington,Sex,1º,T
